@@ -11,6 +11,4 @@ int MaxDigit()
     return Max;
 }
 MaxDigit();
-System.Console.WriteLine();
 System.Console.WriteLine($"В числе {Number} наибольшая цифра {Max}");
-System.Console.WriteLine();
